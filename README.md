@@ -1,12 +1,11 @@
 # Installation : 
-
-[√] apt update && apt upgrade
-[√] pkg install -y root-repo
-[√] pkg install -y git tsu python wpa-supplicant pixiewps iw
-[√] git clone https://github.com/Flymajik/WIFI-HC.PY
-[√] cd WIFI-HC.PY
-[√] chmod +x WIFI-HC.PY
-[√] sudo python WIFI-HC.PY --help 
+apt update && apt upgrade
+pkg install -y root-repo
+pkg install -y git tsu python wpa-supplicant pixiewps iw
+git clone https://github.com/Flymajik/WIFI-HC.PY
+cd WIFI-HC.PY
+chmod +x WIFI-HC.PY
+sudo python WIFI-HC.PY --help 
 
 # Note: 
 
